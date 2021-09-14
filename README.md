@@ -1,2 +1,2 @@
-# Principal-Component-Analysis
+# Principal Component Analysis
 PCA Courses / Exerices 
